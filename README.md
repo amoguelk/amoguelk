@@ -1,5 +1,7 @@
 ![githead](https://github.com/amoguelk/amoguelk/assets/31602026/38770573-577a-4636-bfe2-04186871ff97)
 ## Hello, there
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoguelk/)
+
 The name's Andrea or Mog. I'm a computer engineer from Mexico City. I'm particularly fond of fullstack web development, although I've started to branch out into mobile apps thanks to React Native.
 ## My stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
